@@ -13,4 +13,4 @@ It compares candidates pair by pair on weighted metrics, turns the comparisons i
 
 ## Licence
 
-MIT, as the package metadata in `mix.exs` declares. The repository carries no LICENSE file.
+MIT. See [LICENSE](LICENSE).
